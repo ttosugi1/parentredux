@@ -1,1 +1,2 @@
-# parent
+CHILD1
+MOAR README
